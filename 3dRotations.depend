@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1461860262 source:c:\3drotations\main.cpp
+	<iostream>
+	"quaternion.h"
+
+1461860262 c:\3drotations\quaternion.h
+	<math.h>
+	<vector>
+
+1461860262 source:c:\3drotations\quaternion.cpp
+	<iostream>
+	"quaternion.h"
+
